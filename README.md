@@ -11,7 +11,7 @@ Este repositório contém meus estudos e projetos relacionados ao aprendizado da
 - Trabalho com Arquivos
 - Interfaces
 - Lambda, Delegates, LINQ
-- Sistema Web com ASP .NET Core MVC e Entity Framework ( https://github.com/Lucas-magalhaes1/Sales-System )
+- Sistema Web com ASP .NET Core MVC e Entity Framework (https://github.com/Lucas-magalhaes1/SalesSystem)
 
 ## Como Executar os Projetos
 
